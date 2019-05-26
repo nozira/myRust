@@ -1,0 +1,7 @@
+[package]
+name = "MyRust"
+version = "0.1.0"
+authors = ["nozira <nozira.net@gmail.com>"]
+edition = "2018"
+
+[dependencies]
