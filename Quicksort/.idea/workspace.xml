@@ -4,14 +4,14 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2d4c669-76d5-44af-823a-8e34cf5bdd9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Quicksort/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quicksort/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quicksort/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quicksort/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quicksort/Quicksort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+    <list default="true" id="739cc335-abf9-4f6a-9c11-e543aad20796" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quicksort.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyRust/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRust/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../MyRust/src/main.rs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,8 +30,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#10#11#0" expanded="true" />
+                <element signature="e#43#44#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,11 +44,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/.." value="master" />
-      </map>
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -54,7 +53,7 @@
     </option>
   </component>
   <component name="MacroExpansionManager">
-    <option name="directoryName" value="nzQHwoup" />
+    <option name="directoryName" value="hRGTWzHo" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="277" />
@@ -68,23 +67,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MyRust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyRust" type="462c0819:PsiDirectoryNode" />
+              <item name="Quicksort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quicksort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MyRust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyRust" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyRust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyRust" type="462c0819:PsiDirectoryNode" />
+              <item name="Quicksort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quicksort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -110,23 +104,6 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Run MyRust" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="channel" value="DEFAULT" />
-      <option name="command" value="run --package MyRust --bin MyRust" />
-      <option name="allFeatures" value="false" />
-      <option name="nocapture" value="false" />
-      <option name="backtrace" value="SHORT" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Cargo Command.Run MyRust" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
   </component>
@@ -135,20 +112,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2d4c669-76d5-44af-823a-8e34cf5bdd9f" name="Default Changelist" comment="" />
-      <created>1558879231337</created>
+      <changelist id="739cc335-abf9-4f6a-9c11-e543aad20796" name="Default Changelist" comment="" />
+      <created>1559051218213</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558879231337</updated>
+      <updated>1559051218213</updated>
     </task>
-    <task id="LOCAL-00001" summary="new branch develop">
-      <created>1558879536660</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1558879536660</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -160,14 +129,14 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986391" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986391" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -183,15 +152,15 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="new branch develop" />
-    <option name="LAST_COMMIT_MESSAGE" value="new branch develop" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#10#11#0" expanded="true" />
+            <element signature="e#43#44#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
